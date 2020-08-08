@@ -1,5 +1,5 @@
 ---
-A personal project created through curiousity inorder to learn REACT.  
+A personal project created through curiosity inorder to learn REACT.  
 ---
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
